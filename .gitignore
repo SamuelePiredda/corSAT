@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+
+main.c
+
+
 # Object files
 *.o
 *.ko
@@ -55,4 +59,3 @@ dkms.conf
 *.dwo
 
 .vscode/
-main.c
